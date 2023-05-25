@@ -1,5 +1,22 @@
 ---
-title: "Arend Kuyper"
+title: "Arend M Kuyper"
+subtitle: |
+  | Director of Data Science
+  | Assistant Professor of Instruction
+  | Department of Statistics and Data Science
+  | Northwestern University
+
+about: 
+  template: trestles
+  image: profile.jpeg
+  image-shape: rounded
+  links:
+    - icon: github
+      text: "Github"
+      href: https://github.com/akuyper
+    - icon: linkedin
+      text: "LinkedIn"
+      href: https://www.linkedin.com/in/arend-kuyper
 ---
 
 This is a Quarto website.
