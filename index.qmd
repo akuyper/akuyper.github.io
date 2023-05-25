@@ -16,7 +16,7 @@ about:
       href: https://github.com/akuyper
     - icon: linkedin
       text: "LinkedIn"
-      href: https://www.linkedin.com/in/arend-kuyper
+      href: https://www.linkedin.com/in/arend-kuyper-84b82451/
 ---
 
 Bar chart icon {{< fa chart-bar title="A bar chart" >}} 
