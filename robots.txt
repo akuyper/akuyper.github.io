@@ -1,1 +1,1 @@
-Sitemap: https://github.com/akuyper/kuyper/sitemap.xml
+Sitemap: https://github.com/akuyper/akuyper.github.io/sitemap.xml
