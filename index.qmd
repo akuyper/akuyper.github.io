@@ -19,6 +19,8 @@ about:
       href: https://www.linkedin.com/in/arend-kuyper
 ---
 
+Bar chart icon {{< fa chart-bar title="A bar chart" >}} 
+
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
